@@ -47,7 +47,7 @@
 ### 🌐 Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-whoskavic-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/whoskavic)
-[![Twitter](https://img.shields.io/badge/Twitter-ImKavic-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ImKavic)
+[![X/Twitter](https://img.shields.io/badge/Twitter-ImKavic-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ImKavic)
 [![TikTok](https://img.shields.io/badge/TikTok-ImKavic-010101?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@ImKavic)
 
 ---
