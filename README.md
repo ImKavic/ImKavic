@@ -18,6 +18,8 @@
   Unit Registry Module (2021–2023)
 - **TRIMEGAH INVESTMENT MANAGEMENT SYSTEM**  
   Unit Registry & Unit Registry APERD Module (2022–2023)
+- **DIFA Edivsor-Radsoft Investment Analyst Application System**  
+  (2022–2025)
 - **YKKBI SMART APPLICATION**  
   Insurance Investment Management System (2023–2024)
 - **LPDP eFUND RADSOFT INVESTMENT MANAGEMENT SYSTEM**  
