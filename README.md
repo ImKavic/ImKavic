@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 Projects & Contributions
-**Key Projects (2021 - Present) under RADSOFT PRODUCT, PT PRIMA SOLUSI COMPUTINDO:**
+**Key Projects (2021 - Present) with RADSOFT, PT PRIMA SOLUSI COMPUTINDO:**
 - **DANAREKSA INVESTMENT MANAGEMENT SYSTEM**  
   Unit Registry Module (2021–2023)
 - **TRIMEGAH INVESTMENT MANAGEMENT SYSTEM**  
@@ -26,13 +26,13 @@
   Institutional Insurance Company Investment Management System, Analyst System and Management Risk System (2023–2025)
 - **LPDP eFUND RADSOFT INVESTMENT MANAGEMENT SYSTEM**  
   Institutional Insurance Company Investment Management System (2024–Present)
-- **IFG INSURANCE INVESTMENT MANAGEMENT SYSTEM**
+- **IFG INSURANCE INVESTMENT MANAGEMENT SYSTEM**  
   Institutional Insurance Company Investment Management System (2025–Present)
-- **PRUDENTIAL INSURANCE INVESTMENT MANAGEMENT SYSTEM**
+- **PRUDENTIAL INSURANCE INVESTMENT MANAGEMENT SYSTEM**  
   Private Insurance Investment Management System (2025–Present)
-- **EQUITY LIFE INSURANCE INVESTMENT MANAGEMENT SYSTEM**
+- **EQUITY LIFE INSURANCE INVESTMENT MANAGEMENT SYSTEM**  
   Private Insurance Investment Management System (2025–Present)
-- **BRI INVESTMENT MANAGEMENT FOR MANAGEMENT RISK INSURANCE INVESTMENT MANAGEMENT SYSTEM**
+- **BRI INVESTMENT MANAGEMENT FOR MANAGEMENT RISK INSURANCE INVESTMENT MANAGEMENT SYSTEM**  
   Instituional Investment Management System (2025–Present)
 
 ---
