@@ -21,17 +21,19 @@
 - **DIFA Edivsor-Radsoft Investment Analyst Application System**  
   (2022–2025)
 - **YKKBI SMART APPLICATION**  
-  Insurance Investment Management System (2023–2024)
+  Institutional Insurance Company Investment Management System (2023–2024)
+- **DAPNEBI INVESTMENT MANAGEMENT SYSTEM**  
+  Institutional Insurance Company Investment Management System, Analyst System and Management Risk System (2023–2025)
 - **LPDP eFUND RADSOFT INVESTMENT MANAGEMENT SYSTEM**  
-  Insurance Investment Management System (2024–Present)
-- **IFG INSURANCE INVESTMENT MANAGEMENT SYSTEM**  
-  (2025–Present)
-- **PRUDENTIAL INSURANCE INVESTMENT MANAGEMENT SYSTEM**  
-  (2025–Present)
-- **EQUITY LIFE INSURANCE INVESTMENT MANAGEMENT SYSTEM**  
-  (2025–Present)
-- **BRI INVESTMENT MANAGEMENT FOR MANAGEMENT RISK INSURANCE INVESTMENT MANAGEMENT SYSTEM**  
-  (2025–Present)
+  Institutional Insurance Company Investment Management System (2024–Present)
+- **IFG INSURANCE INVESTMENT MANAGEMENT SYSTEM**
+  Institutional Insurance Company Investment Management System (2025–Present)
+- **PRUDENTIAL INSURANCE INVESTMENT MANAGEMENT SYSTEM**
+  Private Insurance Investment Management System (2025–Present)
+- **EQUITY LIFE INSURANCE INVESTMENT MANAGEMENT SYSTEM**
+  Private Insurance Investment Management System (2025–Present)
+- **BRI INVESTMENT MANAGEMENT FOR MANAGEMENT RISK INSURANCE INVESTMENT MANAGEMENT SYSTEM**
+  Instituional Investment Management System (2025–Present)
 
 ---
 
