@@ -43,13 +43,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![ImKavic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImKavic&show_icons=true&theme=default)
-![ImKavic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImKavic&layout=compact&theme=default)
-
----
-
 ### 🌐 Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-whoskavic-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/whoskavic)
