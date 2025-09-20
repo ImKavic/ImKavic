@@ -40,6 +40,7 @@
 ### 👀 Interests
 - Reading, learning, and brain teasers
 - Finance, investment, and trading
+- Tech, AI, blockchain, chip, crypto
 
 ---
 
