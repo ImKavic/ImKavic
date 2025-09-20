@@ -5,11 +5,11 @@
 ---
 
 ### 🛠️ Skills & Expertise
-- **Code Refactoring**
 - **C#**
 - **JavaScript**
 - **SQL Server**
-
+- **Code Refactoring and Enchancements**
+  
 ---
 
 ### 🚀 Projects & Contributions
