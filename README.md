@@ -33,11 +33,13 @@
 - **EQUITY LIFE INSURANCE INVESTMENT MANAGEMENT SYSTEM**  
   Private Insurance Investment Management System (2025–Present)
 - **BRI INVESTMENT MANAGEMENT FOR MANAGEMENT RISK INSURANCE INVESTMENT MANAGEMENT SYSTEM**  
-  Instituional Investment Management System (2025–Present)
+  Instituional Investment Management System (2025–2025)
+- **RADSOFT x PROTERGO - IFG PENTEST PROJECT 2025**  
+  Instituional Investment Management System (2025–2025)
 
 ---
 
-### 👀 Interests
+### Interests
 - Reading, learning, and brain teasers
 - Finance, investment, and trading
 - Tech, AI, blockchain, chip, crypto
